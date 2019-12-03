@@ -2,4 +2,4 @@ This is Line 0.  It will be the hero and his name is SHERLOCK HOLMES!
 This is Line 1.  It is first.
 This is Line 2.  It knows what it did.
 This is Line 3.  It saw Line 2.
-This is Line 4.  This is what Line 2 did something to.  Don't look.
+This is Line 4.  This is what Line 2 did something to.  Oh, I looked.  Line 1 is in so much trouble.
